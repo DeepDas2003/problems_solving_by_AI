@@ -3,3 +3,8 @@ here is a basic symbols I have added to for running the model
 index fingure=sketching
 index+middle fingure= no sketching
 index+middle+last fingure=sending question to gemini 
+
+
+**Libraries to be installed**
+
+pip install google.genai opencv-python cvzone
